@@ -1,0 +1,63 @@
+.div
+{
+	background:gold;
+	width:600px;
+	height:600px;
+	margin-left:380px;
+}
+.hone
+{
+	text-align:center;
+	line-height:100px;
+}
+.hone1
+{
+	text-align:center;
+	margin-top:-30px;
+}
+.div2
+{
+	background:red;
+	width:600px;
+	height:30px;
+}
+.divcontent
+{
+	text-align:center;
+	line-height:30px;
+	font-size:20px;
+}
+.date
+{
+	position:relative;
+	margin-left:410px;
+	top:10px;
+
+}
+.name1
+{
+	font-size:15px;
+	width:300px;
+	position:relative;
+	top:20px;
+	left:20px;
+}
+.tableone
+{
+	border:2px solid black;
+	border-color:black;
+	position:relative;
+	left:30px;
+	top:50px;
+	height:250px;
+	width:550px;
+	font-size:20px;
+	text-align:center;
+}
+.printbutton
+{
+	margin-left:190px;
+	margin-top:70px;
+	width:200px;
+	height:30px;
+}
